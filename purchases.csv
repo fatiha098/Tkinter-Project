@@ -1,0 +1,3 @@
+ID,supplier,phone,product_name,price,quantity
+
+Art01,XYZ,012457777,productName,50$,60art02,zzz,02121254444,Product1,46$,20art01,inetl,02121548777,processor-intel-core-i5,20$,14art01,inetl,02121548777,processor-intel-core-i9-7thGen,20$,14
